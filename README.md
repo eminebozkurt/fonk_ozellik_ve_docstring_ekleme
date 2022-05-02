@@ -1,0 +1,1 @@
+# fonk_ozellik_ve_docstring_ekleme
